@@ -1,6 +1,6 @@
 # Power-BI ADIDAS Sales Dashboard
 
-###This Adidas Sales Dashboard provides a comprehensive visual analysis of sales performance across various regions, sales methods, and product categories. It is designed to offer key insights into operating profit, units sold, and total sales figures, aiding data-driven decision-making.
+This Adidas Sales Dashboard provides a comprehensive visual analysis of sales performance across various regions, sales methods, and product categories. It is designed to offer key insights into operating profit, units sold, and total sales figures, aiding data-driven decision-making.
 
 Features
 Sales Summary:
