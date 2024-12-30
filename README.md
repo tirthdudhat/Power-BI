@@ -22,4 +22,5 @@ Retailer Contribution:
 
 Retailers such as West Gear, Foot Locker, and Kohl's are highlighted for their contribution to the total sales.
 
-![Annotation 2024-12-30 110350](https://github.com/user-attachments/assets/9ea5f57a-ac40-4556-8663-19337870e218)
+![Annotation 2024-12-30 111551](https://github.com/user-attachments/assets/74db23c1-c46f-4764-bdd6-a08c36168211)
+
